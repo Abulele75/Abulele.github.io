@@ -63,9 +63,8 @@ Built an interactive application that fetches and displays the current weather d
 ## Mock Interview Video
 
 <video width="700" controls>
-  <source src="video.mp4" type="video/mp4">
+  <source src="./video.mp4" type="video/mp4">
 </video>
-
 
 
 
