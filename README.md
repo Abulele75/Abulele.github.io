@@ -63,7 +63,7 @@ Built an interactive application that fetches and displays the current weather d
 ## Mock Interview Video
 
 <video width="700" controls>
-  <source src="./Video.mp4" type="video/mp4">
+  <source src="/Abulele.github.io/Video.mp4" type="video/mp4">
 </video>
 
 
