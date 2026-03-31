@@ -61,7 +61,7 @@ Built an interactive application that fetches and displays the current weather d
 **phone :**  060 832 7786
 
 <video width="700" controls>
-  <source src="video.mov" type="video/mov">
+  <source src="video(1).mp4" type="video/mp4">
 </video>
 
 
