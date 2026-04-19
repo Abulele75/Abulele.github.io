@@ -71,8 +71,14 @@ Built an interactive application that fetches and displays the current weather d
 </video>
 
 
-##Artefacts
+#Artefacts
 ##Shecodes Web development certificate 
+![Web Development Certificate](images/SheCodes.png)
+
+##Projects
+##Matric learning Center (Java)
+An application developed to provide matriculants with study resources.
+
 
 
 
