@@ -79,6 +79,8 @@ Built an interactive application that fetches and displays the current weather d
 ##Matric learning Center (Java)
 An application developed to provide matriculants with study resources.
 
+https://github.com/Abulele75/PROJECTS-2-2025.git
+
 
 
 
