@@ -1,4 +1,8 @@
-# Abulele Ntwanambi
+#About Me
+My name is Abulele Ntwanambi, and I am a third-year ICT student at Cape Peninsula University of Technology. I am an aspiring software developer with stong skills inHTML, CSS, java and javaScript, and intermediate experience in Python. I am passionate about building and solving problems through code and continously improving my development skills.
+
+
+# Curriculum Vitae of Abulele Ntwanambi
 
 ## Contact  
 **Phone :** 071 973 2901  
@@ -65,6 +69,10 @@ Built an interactive application that fetches and displays the current weather d
 <video width="700" controls>
   <source src="/Abulele.github.io/Video.mp4" type="video/mp4">
 </video>
+
+
+##Artefacts
+##Shecodes Web development certificate 
 
 
 
