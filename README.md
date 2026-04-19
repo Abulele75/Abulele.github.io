@@ -1,4 +1,4 @@
-#About Me
+# About Me
 My name is Abulele Ntwanambi, and I am a third-year ICT student at Cape Peninsula University of Technology. I am an aspiring software developer with stong skills inHTML, CSS, java and javaScript, and intermediate experience in Python. I am passionate about building and solving problems through code and continously improving my development skills.
 
 
@@ -71,15 +71,15 @@ Built an interactive application that fetches and displays the current weather d
 </video>
 
 
-#Artefacts
-##Shecodes Web development certificate 
+# Artefacts
+## Shecodes Web development certificate 
 ![Web Development Certificate](images/SheCodes.png)
 
-##Projects
-##Matric learning Center (Java)
+## Projects
+## Matric learning Center (Java)
 An application developed to provide matriculants with study resources.
 
-https://github.com/Abulele75/PROJECTS-2-2025.git
+[My GitHub project](https://github.com/Abulele75/PROJECTS-2-2025)
 
 
 
