@@ -5,9 +5,12 @@ My name is Abulele Ntwanambi. I am a third-year ICT student at Cape Peninsula Un
 # Curriculum Vitae of Abulele Ntwanambi
 
 ## Contact  
-**Phone :** 071 973 2901  
-**Email :** 218276400@mycput.ac.za  
+** 📞Phone :** 071 973 2901  
+** 📧Email :** 218276400@mycput.ac.za
+[LinkedIn](https://www.linkedin.com/in/abulele-ntwanambi-8b048b210/)
 [Github](https://github.com/Abulele75)
+
+---
 
 ## Work Experience 
 **2021 - 2024**
@@ -28,6 +31,8 @@ Ambius Rentokill
 
 Developed knowledge of plant species. Supported seed propagation and plant care.
 
+---
+
 ## Education
 **2015-2017**
 
@@ -36,6 +41,8 @@ MIDA  School - National Senior Certificate
 **2024 - present**
 
 Cape Peninsula University of Technology - Diploma in Information and Communication Technology : Application Development
+
+---
 
 ## Technical Skills
 Good HTML & CSS
@@ -46,6 +53,8 @@ Good Java
 
 Intermediate Python
 
+---
+
 ## Projects
 **Matric Learning Center (Java)**
 
@@ -54,6 +63,8 @@ Developed a platform to assist matric learners by providing study materials and 
 **Weather Application (Javascript)**
 
 Built an interactive application that fetches and displays the current weather data
+
+---
 
 ## References
 **Zimbini Mhlekwa** - KSD  Municipality
@@ -64,13 +75,15 @@ Built an interactive application that fetches and displays the current weather d
 
 **phone :**  060 832 7786
 
+---
+
 ## Mock Interview Video
 
 <video width="700" controls>
   <source src="/Abulele.github.io/Video.mp4" type="video/mp4">
 </video>
 
-
+---
 
 ## Reflection - CV Coded in Markdown Language
 
@@ -86,6 +99,7 @@ To complete the task I watched youtube videos for assistance in using the Markdo
 ### Result
 My CV is well organised and easy to navigate. It is presented professionally. 
 
+---
 
 ## Reflection - Mock Interview Video embedded using Markdown
 
@@ -99,6 +113,8 @@ My task was to follow the Markdown syntax of uploading and embedding a video fil
 I researched the Markdown syntax of uploading a video. I thereafter used Adobe software to help resize my video to fit the size limit on GitHub. 
 ### Result 
 The interview video was uploaded successfully and displays well on my portfolio. 
+
+---
 
 ## Reflection - The Use of GitHub Pages
 
