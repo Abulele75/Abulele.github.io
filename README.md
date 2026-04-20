@@ -5,8 +5,8 @@ My name is Abulele Ntwanambi. I am a third-year ICT student at Cape Peninsula Un
 # Curriculum Vitae of Abulele Ntwanambi
 
 ## Contact  
-** 📞Phone :** 071 973 2901  
-** 📧Email :** 218276400@mycput.ac.za
+**📞Phone :** 071 973 2901  
+**📧Email :** 218276400@mycput.ac.za
 [LinkedIn](https://www.linkedin.com/in/abulele-ntwanambi-8b048b210/)
 [Github](https://github.com/Abulele75)
 
