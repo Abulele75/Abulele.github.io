@@ -109,10 +109,10 @@ For the completion of the portfolio I was tasked to deploy my portfolio as a liv
 The task was to deploy the portfolio using GitHub pages so that my portfolio could be accessed online. 
 
 ### Action
-I created a repository, on the repository I went to settings and clicked on pages. I selected to deploy from the branch, main branch/root and then I saved it and the link to the live website was produced.
+I created a repository, on the repository I went to settings and clicked on pages. I selected to deploy from the branch, main branch/root folder and then saved the settings. The link to the live website of my portfolio was produced.
 
 ### Result
-My portfolio was successfully deployed and in now accessible as a live website. 
+My portfolio was successfully deployed and is now accessible as a live website. 
 
 
 
