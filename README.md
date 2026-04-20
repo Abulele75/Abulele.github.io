@@ -1,5 +1,5 @@
 # About Me
-My name is Abulele Ntwanambi, and I am a third-year ICT student at Cape Peninsula University of Technology. I am an aspiring software developer with stong skills inHTML, CSS, java and javaScript, and intermediate experience in Python. I am passionate about building and solving problems through code and continously improving my development skills.
+My name is Abulele Ntwanambi. I am a third-year ICT student at Cape Peninsula University of Technology. I am an aspiring software developer with strong skills in HTML, CSS, java and javaScript, and intermediate experience in Python. I am passionate about building and solving problems through code and continously improving my development skills.
 
 
 # Curriculum Vitae of Abulele Ntwanambi
