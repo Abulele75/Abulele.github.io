@@ -71,15 +71,50 @@ Built an interactive application that fetches and displays the current weather d
 </video>
 
 
-# Artefacts
-## Shecodes Web development certificate 
-![Web Development Certificate](images/SheCodes.png)
 
-## Projects
-## Matric learning Center (Java)
-An application developed to provide matriculants with study resources.
+## Reflection - CV Coded in Markdown Language
 
-[My GitHub project](https://github.com/Abulele75/PROJECTS-2-2025)
+### Situation
+For the development of my digital portfolio I was required to code my CV using Markdown language. This included learning how to structure a README file, adding headings, bullet points and organising my CV content professionally in a readable format for GitHub.
+
+### Task
+My task was to learn and apply Markdown syntax to format my CV  professionally for my digital portfolio on GitHub.
+
+### Action
+To complete the task I watched youtube videos for assistance in using the Markdown syntax. I thereafter applied all that I had learned and ensured to use GitHub preview to see how my Markdown rendered to make improvements where necessary. 
+
+### Result
+My CV is well organised and easy to navigate. It is presented professionally. 
+
+
+## Reflection - Mock Interview Video embedded using Markdown
+
+### Situation
+I was instructed to upload a mock interview video as part of my portfolio using the Markdown Language. 
+
+### Task
+My task was to follow the Markdown syntax of uploading and embedding a video file and apply it so that my interview video displays directly on my portfolio. 
+
+### Action
+I researched the Markdown syntax of uploading a video. I thereafter used Adobe software to help resize my video to fit the size limit on GitHub. 
+### Result 
+The interview video was uploaded successfully and displays well on my portfolio. 
+
+## Reflection - The Use of GitHub Pages
+
+## Situation
+For the completion of the portfolio I was tasked to deploy my portfolio as a live website using GitHub Pages.
+
+### Task
+The task was to deploy the portfolio using GitHub pages so that my portfolio could be accessed online. 
+
+### Action
+I created a repository, on the repository I went to settings and clicked on pages. I selected to deploy from the branch, main branch/root and then I saved it and the link to the live website was produced.
+
+### Result
+My portfolio was successfully deployed and in now accessible as a live website. 
+
+
 
 
 
