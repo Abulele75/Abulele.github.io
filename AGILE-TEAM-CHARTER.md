@@ -1,7 +1,4 @@
----
-layout: default
-title: AGILE TEAM CHARTER 
----
+
 # AGILE TEAM CHARTER 
 
 ## 1. Purpose & Vision
