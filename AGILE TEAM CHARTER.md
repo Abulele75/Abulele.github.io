@@ -44,4 +44,7 @@ The team encourages collaboration and discussion when making technical decisions
 ## 8. Core values and behaviours 
 1. Respect
 2. Transparency 
-3. Accountability .
+3. Accountability
+
+## Reflection
+Developing the team charter helped me understand the importance of clear roles, communication and accountability. It established shared expectations between the mentor and interns and provided guidelines for collaboration and decision-making. Overall, the charter serves as a foundation for effective teamwork and helps keep the team aligned with the internship goals.
