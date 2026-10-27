@@ -1,3 +1,8 @@
+---
+layout: default
+title: SPRINT BACKLOG
+---
+
 # SPRINT BACKLOG 
 **Duration:** 5 months  
 **Roadmap:** Seven Sprints
