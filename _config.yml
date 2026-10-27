@@ -2,6 +2,7 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
 header_pages:
+- README.md
 - AGILE-TEAM-CHARTER.md
 - AGILE-LOGBOOK.md
 - USER-STORY-TASKS.md
