@@ -1,7 +1,4 @@
----
-layout: default
-title: USER STORY TASKS 
----
+
 
 ## ID	Sprint	User Story
 ### User Stories
