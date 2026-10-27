@@ -1,8 +1,8 @@
 
 # AGILE LOGBOOK
 
-**Intern Name:** [Abulele Ntwanambi]  
-**Host Employer:** [Kinetic Skunk IT Solutions]  
+**Intern Name:** Abulele Ntwanambi  
+**Host Employer:** Kinetic Skunk IT Solutions  
 **Programme Duration:** July – November 2026  
 
 
