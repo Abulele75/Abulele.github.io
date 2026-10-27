@@ -1,5 +1,5 @@
 
-# Agile Logbook
+# AGILE LOGBOOK
 
 **Intern Name:** [Abulele Ntwanambi]  
 **Host Employer:** [Kinetic Skunk IT Solutions]  
