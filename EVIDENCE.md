@@ -1,3 +1,7 @@
+---
+layout: default
+title: EVIDENCE
+---
 # July
 <img width="835" height="808" alt="july report" src="https://github.com/user-attachments/assets/d64bda57-795a-4819-abe4-e41034271bc1" />
 
