@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Abulele Ntwanambi | Portfolio</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Converts Markdown files into readable pages -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+
+<body>
+  <header>
+    <h1>Abulele Ntwanambi</h1>
+    <p>QA Automation Intern | IT Portfolio</p>
+
+    <nav>
+      <a href="#README.md">Home</a>
+      <a href="#AGILE-LOGBOOK.md">Agile Logbook</a>
+      <a href="#AGILE-TEAM-CHARTER.md">Team Charter</a>
+      <a href="#EVIDENCE.md">Evidence</a>
+      <a href="#PRODUCT-BACKLOG.md">Product Backlog</a>
+      <a href="#SPRINT-BACKLOG.md">Sprint Backlog</a>
+      <a href="#USER-STORY-TASKS.md">User Stories & Tasks</a>
+    </nav>
+  </header>
+
+  <main>
+    <article id="content">
+      <h2>Welcome to My Portfolio</h2>
+      <p>Select a link above to explore my internship work and learning journey.</p>
+    </article>
+  </main>
+
+  <footer>
+    <p>© 2026 Abulele Ntwanambi</p>
+  </footer>
+
+  <script>
+    const content = document.getElementById("content");
+
+    async function loadPage() {
+      const file = decodeURIComponent(
+        window.location.hash.substring(1)
+      );
+
+      if (!file) {
+        content.innerHTML = `
+          <h2>Welcome to My Portfolio</h2>
+          <p>
+            Explore my Agile documentation, internship activities
+            and QA automation learning journey using the links above.
+          </p>
+        `;
+        return;
+      }
+
+      // Only allow the Markdown files used by this portfolio.
+      const allowedFiles = [
+        "README.md",
+        "AGILE-LOGBOOK.md",
+        "AGILE-TEAM-CHARTER.md",
+        "EVIDENCE.md",
+        "PRODUCT-BACKLOG.md",
+        "SPRINT-BACKLOG.md",
+        "USER-STORY-TASKS.md"
+      ];
+
+      if (!allowedFiles.includes(file)) {
+        content.innerHTML = "<p>Page not found.</p>";
+        return;
+      }
+
+      content.innerHTML = "<p>Loading page...</p>";
+
+      try {
+        const response = await fetch(file);
+
+        if (!response.ok) {
+          throw new Error("Could not load the file.");
+        }
+
+        const markdown = await response.text();
+        content.innerHTML = marked.parse(markdown);
+        window.scrollTo(0, 0);
+      } catch (error) {
+        content.innerHTML = `
+          <h2>Unable to load this page</h2>
+          <p>Please check that the Markdown file exists in the repository.</p>
+        `;
+      }
+    }
+
+    window.addEventListener("hashchange", loadPage);
+    loadPage();
+  </script>
+</body>
+</html>
