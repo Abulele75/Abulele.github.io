@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: AGILE LOGBOOK
+---
 # Agile Logbook
 
 **Intern Name:** [Abulele Ntwanambi]  
