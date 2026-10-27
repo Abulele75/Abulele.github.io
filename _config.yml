@@ -1,7 +1,6 @@
 title: ABULELE NTWANAMBI - PORTFOLIO
 remote_theme: jekyll/minima
 minima:
-  skin: classic mint green
 header_pages:
 - README.md
 - AGILE-TEAM-CHARTER.md
